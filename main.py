@@ -1,3 +1,5 @@
+#!/home/gymmo/Documenten/GymmoMaker/welcome-dashboard/venv/bin/python
+
 from babel.dates import format_date
 import datetime
 import python_weather
